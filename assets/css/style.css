@@ -1,0 +1,4 @@
+.site-header .site-title,
+.site-footer .footer-col-1 {
+  display: none;
+}
