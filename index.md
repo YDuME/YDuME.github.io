@@ -19,5 +19,3 @@ I’m a researcher working at the intersection of fluid mechanics, inverse probl
 ## Contact
 Email: your.email@example.com  
 GitHub: [github.com/yourusername](https://github.com/yourusername)
-
-Create homepage
