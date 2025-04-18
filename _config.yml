@@ -1,1 +1,6 @@
-theme: jekyll-theme-cayman
+theme: minima
+
+minima:
+  skin: auto
+  include_css:
+    - assets/css/style.css
