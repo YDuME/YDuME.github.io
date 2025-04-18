@@ -2,5 +2,6 @@ theme: minima
 
 minima:
   skin: auto
+  social_links: []
   include_css:
     - assets/css/style.css
