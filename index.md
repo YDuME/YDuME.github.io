@@ -14,7 +14,7 @@ I’m a researcher working at the intersection of fluid mechanics, inverse probl
 - Uncertainty quantification in geophysical flows
 
 ## CV
-[Download my CV](assets/Yifan_CV.pdf)
+[Download my CV](assets/CV_YifanDu.pdf)
 
 ## Contact
 Email: duyifanme@gmail.com  
