@@ -11,7 +11,7 @@ I’m a researcher working at the intersection of fluid mechanics, inverse probl
 - Flow separation and drag
 - Inverse modeling from sparse data
 - Wave field and subsurface reconstruction
-- Uncertainty quantification in geophysical flows
+- Uncertainty quantification in geophysical flows 
 
 ## CV
 [Download my CV](assets/CV_YifanDu.pdf)
