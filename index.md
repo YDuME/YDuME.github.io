@@ -17,5 +17,5 @@ I’m a researcher working at the intersection of fluid mechanics, inverse probl
 [Download my CV](assets/Yifan_CV.pdf)
 
 ## Contact
-Email: your.email@example.com  
+Email: duyifanme@gmail.com  
 GitHub: [github.com/yourusername](https://github.com/yourusername)
