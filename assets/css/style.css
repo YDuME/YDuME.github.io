@@ -1,4 +1,9 @@
-.site-header .site-title,
+/* Hide site title in header */
+.site-header .site-title {
+  display: none;
+}
+
+/* Hide GitHub link in footer */
 .site-footer .footer-col-1 {
   display: none;
 }
