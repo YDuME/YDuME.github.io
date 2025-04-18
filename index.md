@@ -18,4 +18,3 @@ I’m a researcher working at the intersection of fluid mechanics, inverse probl
 
 ## Contact
 Email: duyifanme@gmail.com  
-GitHub: [github.com/yourusername](https://github.com/yourusername)
