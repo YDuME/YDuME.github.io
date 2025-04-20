@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: home
 title: Yifan's Academic Page
 ---
-
+<link rel="stylesheet" href="assets/css/style.css">
 # Hello, I’m Yifan
 
 I’m a researcher working at the intersection of fluid mechanics, inverse problems, and data-driven modeling. I recently completed my PhD and am beginning a postdoc, with the long-term goal of joining academia.
