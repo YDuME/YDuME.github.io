@@ -7,3 +7,10 @@
 .footer {
   display: none;
 }
+
+/* Hide lower left GitHub footer section */
+.site-footer .footer-col-1,
+.site-footer .footer-heading,
+.site-footer .social-media-list {
+  display: none !important;
+}
