@@ -14,3 +14,15 @@
 .site-footer .social-media-list {
   display: none !important;
 }
+
+.pub-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.pub-item {
+  margin-bottom: 20px;
+  text-indent: -20px;
+  padding-left: 20px;
+}
+
